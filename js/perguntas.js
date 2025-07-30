@@ -1,6 +1,8 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Você passou no vestibular.
+         Tem duas opções a faculdade pública que é em período integral ou a segunda opção
+        que é a faculdade privada e em período noturno mas a mensalidade é alta",
         alternativas: [
             {
                 texto: "Isso é assustador!",
