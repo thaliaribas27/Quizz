@@ -1,11 +1,11 @@
 export const perguntas = [
     {
         enunciado: "Você passou no vestibular.
-         Tem duas opções a faculdade pública que é em período integral ou a segunda opção
-        que é a faculdade privada e em período noturno mas a mensalidade é alta",
+         Temos duas opções: a faculdade pública que é em período integral
+         a faculdade privada em período noturno, mas com a mensalidade alta",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Isso é confuso!",
                 afirmacao: [
                     "No início ficou com medo do que essa tecnologia pode fazer.",
                     "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
