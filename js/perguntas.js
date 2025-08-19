@@ -24,7 +24,7 @@ export const perguntas = [
         enunciado: "Para escolher uma profissão, você encontra um guia vocacional com várias dicas. O que faz?",
         alternativas: [
             {
-                texto: "Seguir as orientações do guia ao pé da letra.",
+                texto: "Seguir as orientações do guia.",
                 afirmacao: [
                     "Descobriu carreiras que não conhecia e abriu sua mente para novas opções.",
                     "Percebeu que os conselhos ajudavam a evitar escolhas precipitadas.",
